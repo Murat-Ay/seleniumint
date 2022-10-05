@@ -1,15 +1,11 @@
 package day02_driverMethods;
-
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-
 public class C02_IlkTest {
         public static void main(String[] args) {
-
         /* Gerekli ayarlamalari yapip amazon anasayfaya gidin
           1- sayfa basligi "amazon" kelimesi icermeli
           2- sayfa url'inde "Amazon" kelimesi olmali  */
-
             System.setProperty("webdriver.chrome.driver","src/resources/chromedriver.exe");
             WebDriver driver= new ChromeDriver();
             driver.get("https://www.amazon.com");
