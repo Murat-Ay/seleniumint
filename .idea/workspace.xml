@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C03_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C04_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C05_test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C01_firstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C01_ersteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C02_IlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C02_IlkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C03_DriverGetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C03_DriverGetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C05_DriverManageMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C05_DriverManageMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +51,7 @@
       <recent name="C:\Users\Win\Seleniumint\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C03_test">
+  <component name="RunManager" selected="Application.C05_test">
     <configuration name="C02_IlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C02_IlkTest" />
       <module name="Seleniumint" />
@@ -109,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_DriverManageMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C06_DriverManageMethods" />
+    <configuration name="C05_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day01_driverMethods.C05_test" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day01_driverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C05_test" />
         <item itemvalue="Application.C03_test" />
         <item itemvalue="Application.C05_DriverManageMethods" />
         <item itemvalue="Application.C04_DriverNavigateMethods" />
         <item itemvalue="Application.C02_IlkTest" />
-        <item itemvalue="Application.C06_DriverManageMethods" />
       </list>
     </recent_temporary>
   </component>
