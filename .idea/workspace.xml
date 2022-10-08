@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/autoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/testName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/testYoutube.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C01_ersteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C01_ersteTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C02_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C02_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C03_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C03_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C04_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C04_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day01_driverMethods/C05_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01_driverMethods/C05_test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C01_DriverMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C01_DriverMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C02_IlkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C02_IlkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C03_DriverGetMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C03_DriverGetMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C04_DriverNavigateMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C04_DriverNavigateMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C05_DriverManageMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C05_DriverManageMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/day02_driverMethods/C06_DriverManageMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C06_DriverManageMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/autoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/autoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/testName.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/testName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/testYoutube.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/testYoutube.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
