@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="" />
+    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C01_findElement_Nutella.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C01_findElement_Nutella.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C02_findElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C02_findElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C03_linkText.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C03_linkText.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C04_LocatorTesti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C04_LocatorTesti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C05_noSuchElementExc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C05_noSuchElementExc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C06_webElementMethodlari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C06_webElementMethodlari.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +57,13 @@
       <recent name="C:\Users\Win\Seleniumint\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.testYoutube">
-    <configuration name="C03_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_driverMethods.C03_test" />
+  <component name="RunManager" selected="Application.testBUG">
+    <configuration name="C01_findElement_Nutella" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_webElements_locators.C01_findElement_Nutella" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_driverMethods.*" />
+          <option name="PATTERN" value="day03_webElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +71,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_driverMethods.C05_test" />
+    <configuration name="C04_LocatorTesti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_webElements_locators.C04_LocatorTesti" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_driverMethods.*" />
+          <option name="PATTERN" value="day03_webElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +84,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="autoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.autoTest" />
+    <configuration name="C05_noSuchElementExc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_webElements_locators.C05_noSuchElementExc" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="day03_webElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.testName" />
+    <configuration name="C06_webElementMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_webElements_locators.C06_webElementMethodlari" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="day03_webElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="testYoutube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.testYoutube" />
+    <configuration name="testBUG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Practice.testBUG" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.testYoutube" />
-        <item itemvalue="Application.autoTest" />
-        <item itemvalue="Application.testName" />
-        <item itemvalue="Application.C05_test" />
-        <item itemvalue="Application.C03_test" />
+        <item itemvalue="Application.testBUG" />
+        <item itemvalue="Application.C01_findElement_Nutella" />
+        <item itemvalue="Application.C06_webElementMethodlari" />
+        <item itemvalue="Application.C05_noSuchElementExc" />
+        <item itemvalue="Application.C04_LocatorTesti" />
       </list>
     </recent_temporary>
   </component>
