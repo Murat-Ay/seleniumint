@@ -39,7 +39,7 @@ public class autoTest {
                 System.out.println("Sayfanin asil URL i :"+driver.getCurrentUrl());
             }
 
-            driver.findElement( By.className("input")).sendKeys("Volvo");
+            driver.findElement( By.className("input")).sendKeys("volvo");
             Thread.sleep(1500);
 
             driver.findElement(By.className("search-button")).click();
@@ -55,9 +55,6 @@ public class autoTest {
             System.out.println("Sayfanin Title i: "+driver.getTitle());
 
             System.out.println("Sayfanin URL i: "+driver.getCurrentUrl());
-
-            driver.close();
-
-        }
+                    }
     }
 
