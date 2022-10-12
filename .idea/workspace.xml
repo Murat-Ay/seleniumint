@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath/C01_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath/C02_Xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath/C03_XPathText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath/C04_CssSelector" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath/C05_RelativeLocators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/autoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/autoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/testBUG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/testBUG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C01_findElement_Nutella.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day03_webElements_locators/C01_findElement_Nutella.java" afterDir="false" />
-    </list>
+    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

@@ -6,7 +6,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
-public class C06_webElementMethodlari {
+public class C06_webElementMethods {
         public static void main(String[] args) throws InterruptedException {
             System.setProperty("webdriver.chrome.driver","src/test/chromedriver.exe");
             WebDriver driver=new ChromeDriver();
