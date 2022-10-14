@@ -26,21 +26,27 @@ public class C02_ZeroTest {
         //4. Password alanine “password” yazdirin
         WebElement passwordElementKutusu= driver.findElement(By.id("user_password"));
         passwordElementKutusu.sendKeys("password");
+        Thread.sleep( 2000 );
         //5. Sign in buttonuna tiklayin
         driver.findElement(By.xpath("//input[@type=\"submit\"]")).click();
         driver.navigate().back();
+        Thread.sleep( 2000 );
         //6. Online bankings menusunden Pay Bills sayfasina gidin
         driver.findElement(By.xpath("//strong[text()='Online Banking']")).click();
         driver.findElement(By.xpath("//span[text()='Pay Bills']")).click();
+        Thread.sleep( 2000 );
         //7. amount kismina yatirmak istediginiz herhangi bir miktari yazin
         WebElement amauntKutusu= driver.findElement(By.id("sp_amount"));
         amauntKutusu.sendKeys("200");
+        Thread.sleep( 2000 );
         //8. tarih kismina “2022-10-10” yazdirin\
         WebElement tarihKutusu= driver.findElement(By.id("sp_date"));
         tarihKutusu.sendKeys("2022-10-10");
+        Thread.sleep( 2000 );
         //9. Pay buttonuna tiklayin
         WebElement payButonu= driver.findElement(By.id("pay_saved_payees"));
         payButonu.click();
+        Thread.sleep( 2000 );
         //10. “The payment was successfully submitted.” mesajinin ciktigini test edin
         WebElement basariliYazisiElementi= driver.findElement(By.id("alert_content"));
         String actualBasariliYazisi= basariliYazisiElementi.getText();
