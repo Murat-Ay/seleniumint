@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="" />
+    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_mavenProje/C01_maven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,13 +52,26 @@
       <recent name="C:\Users\Win\Seleniumint\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C05_RelativeLocators">
+  <component name="RunManager" selected="Application.C01_maven">
     <configuration name="C01_Xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day04_xpath.C01_Xpath" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day04_xpath.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C01_maven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_mavenProje.C01_maven" />
+      <module name="Seleniumint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day05_mavenProje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="autoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.autoTest" />
-      <module name="Seleniumint" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C01_maven" />
         <item itemvalue="Application.C05_RelativeLocators" />
         <item itemvalue="Application.C03_XPathText" />
         <item itemvalue="Application.C02_Xpath" />
         <item itemvalue="Application.C01_Xpath" />
-        <item itemvalue="Application.autoTest" />
       </list>
     </recent_temporary>
   </component>
