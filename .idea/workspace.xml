@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/day05_mavenProje/C02_ZeroTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day05_mavenProje/C02_ZeroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath/C06_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day05_mavenProje/C01_JUnitIlkTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day05_mavenProje/C02_Before_After.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +53,7 @@
       <recent name="C:\Users\Win\Seleniumint\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C01_JUnitIlkTest">
+  <component name="RunManager" selected="Application.C06_test">
     <configuration name="C01_ilkMavenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day05_mavenProje.C01_ilkMavenTest" />
       <module name="Seleniumint" />
@@ -77,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_XPathText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04_xpath.C03_XPathText" />
+    <configuration name="C06_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_xpath.C06_test" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C05_RelativeLocators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04_xpath.C05_RelativeLocators" />
+    <configuration name="C06_webElementMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_webElements_locators.C06_webElementMethods" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day04_xpath.*" />
+          <option name="PATTERN" value="day03_webElements_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C01_JUnitIlkTest" />
+        <item itemvalue="Application.C06_test" />
+        <item itemvalue="Application.C06_webElementMethods" />
         <item itemvalue="Application.C02_ZeroTest" />
+        <item itemvalue="TestNG.C01_JUnitIlkTest" />
         <item itemvalue="Application.C01_ilkMavenTest" />
-        <item itemvalue="Application.C05_RelativeLocators" />
-        <item itemvalue="Application.C03_XPathText" />
       </list>
     </recent_temporary>
   </component>
