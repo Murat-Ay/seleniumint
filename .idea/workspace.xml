@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="" />
+    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/Practice/testYoklama.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_mavenProje/ders07_handleDropdownMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day04_xpath/C06_testSamsung.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day04_xpath/C06_testSamsung.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,20 +53,7 @@
       <recent name="C:\Users\Win\Seleniumint\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C06_test">
-    <configuration name="C01_ilkMavenTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day05_mavenProje.C01_ilkMavenTest" />
-      <module name="Seleniumint" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day05_mavenProje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.testYoklama">
     <configuration name="C02_ZeroTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day05_mavenProje.C02_ZeroTest" />
       <module name="Seleniumint" />
@@ -75,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day04_xpath.C06_test" />
+    <configuration name="C06_testSamsung" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_xpath.C06_testSamsung" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
@@ -101,6 +93,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testYoklama" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.testYoklama" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C01_JUnitIlkTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Seleniumint" />
       <extension name="coverage">
@@ -120,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C06_test" />
+        <item itemvalue="JUnit.testYoklama" />
+        <item itemvalue="Application.C06_testSamsung" />
         <item itemvalue="Application.C06_webElementMethods" />
         <item itemvalue="Application.C02_ZeroTest" />
         <item itemvalue="TestNG.C01_JUnitIlkTest" />
-        <item itemvalue="Application.C01_ilkMavenTest" />
       </list>
     </recent_temporary>
   </component>

@@ -18,13 +18,9 @@ public class C06_testSamsung {
         amazonAramaButonu.sendKeys( "samsung a52" );
         amazonAramaButonu.submit();
         amazonAramaButonu.clear();
-        amazonAramaButonu.sendKeys( "samsung a72" );
-       amazonAramaButonu.submit();
-
+        amazonAramaButonu.sendKeys( "samsung a71" );
+        amazonAramaButonu.submit();
         driver.close();
-
-
-
 
     }
 }
