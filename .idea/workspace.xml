@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/testLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/testLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Practice/xPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Practice/ByXpath.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
       <recent name="C:\Users\Win\Seleniumint\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testLogin">
+  <component name="RunManager" selected="JUnit.testYoklama">
     <configuration name="By_xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.By_xpath" />
       <module name="Seleniumint" />
@@ -66,19 +67,6 @@
     </configuration>
     <configuration name="By_xpathID" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.By_xpathID" />
-      <module name="Seleniumint" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="xPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.xPath" />
       <module name="Seleniumint" />
       <extension name="coverage">
         <pattern>
@@ -120,13 +108,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="testYoklama" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumint" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Practice" />
+      <option name="MAIN_CLASS_NAME" value="Practice.testYoklama" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testYoklama" />
         <item itemvalue="JUnit.testLogin" />
         <item itemvalue="JUnit.testGoogleNutella" />
         <item itemvalue="Application.By_xpathID" />
         <item itemvalue="Application.By_xpath" />
-        <item itemvalue="Application.xPath" />
       </list>
     </recent_temporary>
   </component>

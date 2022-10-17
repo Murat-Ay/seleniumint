@@ -7,7 +7,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 
-public class xPath {
+public class ByXpathRadio {
     public static void main(String[] args) throws InterruptedException {
         System.setProperty("webdriver.chrome.driver","src/resources/chromedriver.exe");
         WebDriver driver = new ChromeDriver();
@@ -16,18 +16,15 @@ public class xPath {
         driver.get("https://www.techlistic.com/p/selenium-practice-form.html");
 
         driver.manage().deleteAllCookies();
-
         driver.findElement( By.xpath("//button[@id='ez-accept-all']")).click(); // Cikan pencereyi asmak icin
-
         driver.findElement(By.xpath("//a[@id='cookieChoiceDismiss']")).click();
-
         driver.findElement(By.xpath("//input[@name='firstname']")).sendKeys("Nevzat"+ Keys.ENTER);
         Thread.sleep(1000);
 
         driver.findElement(By.xpath("//input[@name='lastname']")).sendKeys("Celik" + Keys.ENTER);
         Thread.sleep(1000);
 
-        WebElement genderRadioButton = driver.findElement(By.xpath("//input[@id='sex-0']")); // Gender
+        WebElement genderRadioButton = driver.findElement(By.xpath("//input[@id='sex-0']")); // Gender sabitle
         genderRadioButton.click();
         Thread.sleep(1000);
         genderRadioButton.sendKeys( Keys.PAGE_DOWN);
