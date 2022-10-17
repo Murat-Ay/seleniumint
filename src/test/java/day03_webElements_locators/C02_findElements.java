@@ -7,6 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 import java.util.List;
 public class C02_findElements {
+
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver","src/test/chromedriver.exe");
         WebDriver driver= new ChromeDriver();
