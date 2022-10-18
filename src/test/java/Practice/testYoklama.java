@@ -18,7 +18,6 @@ public class testYoklama {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait( Duration.ofSeconds(15));
     }
-
     @Test
     public void Test1() throws InterruptedException {
         /*  1-yoklama sitesine gidelim
@@ -46,7 +45,6 @@ public class testYoklama {
         gonder.click();
         Thread.sleep(3000);
     }
-
     @After
     public void TearDown(){
         driver.quit();
