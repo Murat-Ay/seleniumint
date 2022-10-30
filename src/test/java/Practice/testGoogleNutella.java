@@ -22,7 +22,7 @@ import java.time.Duration;
         }
         @Test
         public void test01(){
-          /*       1-C01_TekrarTesti isimli bir class olusturun
+          /* 1-C01_TekrarTesti isimli bir class olusturun
         2- https://www.google.com/ adresine gidin
         3- cookies uyarisini kabul ederek kapatin
         4-Sayfa basliginin "Google" ifadesi icerdigini test edin

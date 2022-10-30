@@ -39,6 +39,7 @@ public class C01_ilkMavenTest {
         //5- Ilk urunu tiklayalim
         WebElement ilkUrunElementi= driver.findElement(By.xpath("(//img[@class='s-image'])[1]"));
         ilkUrunElementi.click();
+
         //6- Sayfadaki tum basliklari yazdiralim
         driver.navigate().back();
         List<WebElement> baslikElemetleriList= driver.findElements(By.xpath("//span[@class='a-size-base a-color-base']"));

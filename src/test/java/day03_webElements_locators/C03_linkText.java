@@ -1,5 +1,4 @@
 package day03_webElements_locators;
-
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -15,7 +14,7 @@ public class C03_linkText {
         driver.get("https://www.amazon.com");
         WebElement customerServiceElementi=driver.findElement( By.linkText("Customer Service"));
         customerServiceElementi.click();
-        Thread.sleep(3000);
+        Thread.sleep(1000);
         driver.close();
     }
 }
