@@ -43,7 +43,6 @@ public class testYoklama {
         WebElement gonder= driver.findElement(By.xpath("//*[@id=\"mG61Hd\"]/div[2]/div/div[3]/div[1]/div[1]/div/span/span"));
         gonder.click();
         Thread.sleep(3000);    }
-
     @After
     public void TearDown(){
     driver.quit();
