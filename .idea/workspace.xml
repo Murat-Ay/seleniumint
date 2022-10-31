@@ -48,7 +48,7 @@
       <recent name="C:\Users\Win\Seleniumint\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testGoogleNutella">
+  <component name="RunManager" selected="JUnit.testYoklama.Test1">
     <configuration name="C03_linkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day03_webElements_locators.C03_linkText" />
       <module name="Seleniumint" />
@@ -126,9 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testYoklama.Test1" />
         <item itemvalue="JUnit.testGoogleNutella" />
         <item itemvalue="Application.C03_linkText" />
-        <item itemvalue="JUnit.testYoklama.Test1" />
         <item itemvalue="JUnit.testGoogleNutella.test01" />
         <item itemvalue="JUnit.testYoklama" />
       </list>
