@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="" />
+    <list default="true" id="cdbaa3dc-ed8c-4e3a-9b0d-9c12d84d00e6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,7 +50,7 @@
       <recent name="C:\Users\Win\Seleniumint\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.testYoklama.Test1">
+  <component name="RunManager" selected="JUnit.testYoklama">
     <configuration name="C03_linkText" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day03_webElements_locators.C03_linkText" />
       <module name="Seleniumint" />
@@ -126,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.testYoklama" />
         <item itemvalue="JUnit.testYoklama.Test1" />
         <item itemvalue="JUnit.testGoogleNutella" />
         <item itemvalue="Application.C03_linkText" />
         <item itemvalue="JUnit.testGoogleNutella.test01" />
-        <item itemvalue="JUnit.testYoklama" />
       </list>
     </recent_temporary>
   </component>

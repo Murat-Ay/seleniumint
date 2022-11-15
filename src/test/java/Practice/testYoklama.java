@@ -24,7 +24,7 @@ public class testYoklama {
        3-Mail(kayit olurken verdiginiz mail) kismina bilgilerimizi girelim
        4-Derse Katildim kisminda uygun olan isaretlemeyi yapalim
        5-tum bilgileri tamamladiktan sonra gonder butonuna tiklayalim
-       6-Sayfayi Kapatalim */
+       6-Sayfayi kapatalim */
 
         driver.get("https://docs.google.com/forms/d/e/1FAIpQLSd5_I3e-wir0s68TFyY3Cj3Th4vjusJ4xv1aUET0Y4i-sY9cQ/viewform");
         Thread.sleep(1000);
@@ -45,7 +45,7 @@ public class testYoklama {
         Thread.sleep(3000);    }
     @After
     public void TearDown(){
-    driver.quit();
-    }
 
+        driver.quit();
+    }
 }
