@@ -9,6 +9,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 public class testYoklama {
+
+
     WebDriver driver;
     @Before
     public void setUp(){
