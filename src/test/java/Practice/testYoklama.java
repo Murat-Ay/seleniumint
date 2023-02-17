@@ -19,6 +19,8 @@ public class testYoklama {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait( Duration.ofSeconds(15));
     }
+
+
     @Test
     public void Test1() throws InterruptedException {
         /*  1-yoklama sitesine gidelim
