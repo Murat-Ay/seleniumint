@@ -18,6 +18,8 @@ public class testLogin {
         driver.manage().timeouts().implicitlyWait( Duration.ofSeconds(15));
     }
 
+
+
     @Test
     public void Test2() throws InterruptedException {
         /* 1. "https://www.saucedemo.com" Adresine gidin
