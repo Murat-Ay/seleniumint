@@ -10,6 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import java.time.Duration;
 public class testLogin {
     WebDriver driver;
+
     @Before
     public void setUp() {
         WebDriverManager.chromedriver().setup();
@@ -17,6 +18,8 @@ public class testLogin {
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait( Duration.ofSeconds(15));
     }
+
+
     @Test
     public void Test2() throws InterruptedException {
         /* 1. "https://www.saucedemo.com" Adresine gidin
