@@ -16,8 +16,6 @@ public class testBUG {
 
         driver.get("https://www.hepsiburada.com");
 
-
-
         WebElement aramaMotoru= driver.findElement(By.className( "desktopOldAutosuggestTheme-UyU36RyhCTcuRs_sXL9b"));
         aramaMotoru.sendKeys( "elektronik" + Keys.ENTER );
         driver.findElement( By.className( "horizontalSortingBar-PkoDOH7UsCwBrQaQx9bn" ) );
