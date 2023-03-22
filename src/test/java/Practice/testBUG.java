@@ -9,7 +9,6 @@ import java.time.Duration;
 
 public class testBUG {
 
-
     public static void main(String[] args) {
         System.setProperty("webdriver.chrome.driver","src/resources/chromedriver.exe");
         WebDriver driver= new ChromeDriver();
@@ -17,8 +16,6 @@ public class testBUG {
         driver.manage().timeouts().implicitlyWait( Duration.ofSeconds(5));
 
         driver.get("https://www.hepsiburada.com");
-
-
 
         WebElement aramaMotoru= driver.findElement(By.className( "desktopOldAutosuggestTheme-UyU36RyhCTcuRs_sXL9b"));
         aramaMotoru.sendKeys( "elektronik" + Keys.ENTER );
