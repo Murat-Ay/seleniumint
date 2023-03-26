@@ -16,6 +16,7 @@ public class testBUG {
         driver.manage().timeouts().implicitlyWait( Duration.ofSeconds(5));
 
 
+
         driver.get("https://www.hepsiburada.com");
 
         WebElement aramaMotoru= driver.findElement(By.className( "desktopOldAutosuggestTheme-UyU36RyhCTcuRs_sXL9b"));
